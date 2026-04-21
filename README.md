@@ -11,19 +11,14 @@ Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me
 - 🔭 **Actualmente estoy trabajando en:** [Existia Learn](https://github.com/tu-usuario/existia-learn) y herramientas de automatización con IA.
 - 🌱 **Actualmente estoy aprendiendo:** Seguridad de red avanzada, integración de IoT con ESP32 y optimización de Server Components en Next.js.
 - 👯 **Busco colaborar en:** Proyectos Open Source Full-Stack que utilicen NestJS, Bun, React o ElysiaJS.
-- 🤔 **Busco ayuda con:** Optimización avanzada de PL/SQL y configuraciones complejas de redes Cisco.
 - 💬 **Pregúntame sobre:** Angular, React, TypeScript, Minecraft Técnico, y Gustavo Cerati.
-- 📫 **Cómo contactarme:** Mensaje directo en [LinkedIn](https://linkedin.com/in/tu-perfil) o vía email en `tu-email@ejemplo.com`.
-- 😄 **Pronombres:** Él.
-- ⚡ **Dato curioso:** Trato mis mundos de Minecraft como proyectos de ingeniería: todo debe estar automatizado y ser eficiente.
-
 ---
 
 ## 🚀 Tech Stack
 
 ### Frontend
 - **Frameworks:** Angular 20 (Signals, SSR), React, Next.js (App Router)
-- **Estilos:** Tailwind CSS
+- **Estilos:** Tailwind CSS, SASS
 - **Herramientas:** Bun, Vite
 
 ### Backend & Bases de Datos
@@ -33,7 +28,7 @@ Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me
 
 ### Infraestructura & Herramientas
 - **Redes:** Cisco Networking (VLANs, ACLs, Router-on-a-Stick)
-- **Entorno:** macOS (Zed, DataGrip), Docker
+- **Entorno:** macOS, Zed, DataGrip, Docker, Warp
 - **Hardware:** ESP32 / Arduino (Prototipado IoT)
 
 ---
@@ -53,5 +48,5 @@ Aplicación enfocada en escritorio que procesa el audio de consultas médicas pa
 
 ## 📈 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nahumsvr&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?nahumsvr=tu-usuario&layout=compact&theme=tokyonight)
