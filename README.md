@@ -1,56 +1,57 @@
-# Hi, I'm Angel Salvador 👋
+# Hola, soy Angel Salvador 👋
 
-### Software Engineering Student | Full-Stack Developer
+### Estudiante de Ingeniería de Software | Desarrollador Full-Stack
 
-I am a software engineering student based in Querétaro, Mexico, focused on building scalable, high-performance applications. I enjoy tackling complex architectural challenges, from reactive frontends to robust backend systems.
+Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me enfoco en construir aplicaciones escalables y de alto rendimiento, resolviendo retos arquitectónicos desde frontends reactivos hasta sistemas backend robustos.
 
 ---
 
-## 🛠️ Status & Focus
+## 🛠️ Estado y Enfoque
 
-- 🔭 **I’m currently working on:** [Existia Learn](https://github.com/tu-usuario/existia-learn) and AI-driven automation tools.
-- 🌱 **I’m currently learning:** Advanced Network Security, ESP32 IoT integration, and deepening my expertise in Angular 20 Signals.
-- 👯 **I’m looking to collaborate on:** Open-source Full-Stack projects using NestJS, Bun, or ElysiaJS.
-- 🤔 **I’m looking for help with:** Advanced PL/SQL optimization and complex Cisco networking configurations.
-- 💬 **Ask me about:** Angular, TypeScript, Technical Minecraft, or how to hit 2500kcal with a clean diet.
-- 📫 **How to reach me:** Direct message on [LinkedIn](https://linkedin.com/in/tu-perfil) or via email at `tu-email@ejemplo.com`.
-- 😄 **Pronouns:** He/Him.
-- ⚡ **Fun fact:** I treat my Minecraft worlds like engineering projects—everything must be automated and efficient.
+- 🔭 **Actualmente estoy trabajando en:** [Existia Learn](https://github.com/tu-usuario/existia-learn) y herramientas de automatización con IA.
+- 🌱 **Actualmente estoy aprendiendo:** Seguridad de red avanzada, integración de IoT con ESP32 y optimización de Server Components en Next.js.
+- 👯 **Busco colaborar en:** Proyectos Open Source Full-Stack que utilicen NestJS, Bun, React o ElysiaJS.
+- 🤔 **Busco ayuda con:** Optimización avanzada de PL/SQL y configuraciones complejas de redes Cisco.
+- 💬 **Pregúntame sobre:** Angular, React, TypeScript, Minecraft Técnico, y Gustavo Cerati.
+- 📫 **Cómo contactarme:** Mensaje directo en [LinkedIn](https://linkedin.com/in/tu-perfil) o vía email en `tu-email@ejemplo.com`.
+- 😄 **Pronombres:** Él.
+- ⚡ **Dato curioso:** Trato mis mundos de Minecraft como proyectos de ingeniería: todo debe estar automatizado y ser eficiente.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Frontend
-- **Frameworks:** Angular 20 (Signals, SSR), Tailwind CSS
-- **Tools:** Bun, Vite
+- **Frameworks:** Angular 20 (Signals, SSR), React, Next.js (App Router)
+- **Estilos:** Tailwind CSS
+- **Herramientas:** Bun, Vite
 
-### Backend & Databases
-- **Runtime/Frameworks:** NestJS, ElysiaJS, Bun
-- **Languages:** TypeScript, Java, SQL (PL/SQL)
-- **Databases:** PostgreSQL, Oracle DB, MongoDB
+### Backend & Bases de Datos
+- **Runtimes/Frameworks:** NestJS, ElysiaJS, Bun
+- **Lenguajes:** TypeScript, Java, SQL (PL/SQL)
+- **Bases de Datos:** PostgreSQL, Oracle DB, MongoDB
 
-### Infrastructure & Tools
-- **Networking:** Cisco Networking (VLANs, ACLs, Router-on-a-Stick)
-- **Environment:** macOS (Zed, DataGrip), Docker
-- **Hardware:** ESP32 / Arduino (IoT Prototyping)
+### Infraestructura & Herramientas
+- **Redes:** Cisco Networking (VLANs, ACLs, Router-on-a-Stick)
+- **Entorno:** macOS (Zed, DataGrip), Docker
+- **Hardware:** ESP32 / Arduino (Prototipado IoT)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Proyectos Destacados
 
 ### [Existia Learn](https://github.com/tu-usuario/existia-learn)
-The first educational platform designed specifically for the Mexican school system, focusing on productivity tools for teachers and students.
+La primera plataforma educativa diseñada específicamente para el sistema escolar mexicano, enfocada en herramientas de productividad para maestros y alumnos.
 
 ### [StockFlow H&M](https://github.com/tu-usuario/stockflow)
-Intelligent web system for demand and inventory management, developed as a high-performance solution for supply chain logistics.
+Sistema web inteligente para la gestión de demanda e inventarios, desarrollado como una solución de alto rendimiento para logística de cadena de suministro.
 
-### AI Medical Scribe (MLH Hackathon 2026)
-A desktop-focused application that processes consultation audio to automatically pre-fill medical forms using AI.
+### OkDoc (MLH Hackathon 2026)
+Aplicación enfocada en escritorio que procesa el audio de consultas médicas para pre-rellenar formularios clínicos automáticamente mediante IA.
 
 ---
 
-## 📈 Stats
+## 📈 Estadísticas
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
