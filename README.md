@@ -49,4 +49,4 @@ Aplicación enfocada en escritorio que procesa el audio de consultas médicas pa
 ## 📈 Estadísticas
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nahumsvr&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?nahumsvr=tu-usuario&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumsvr&layout=compact&theme=tokyonight)
