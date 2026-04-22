@@ -8,7 +8,7 @@ Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me
 
 ## 🛠️ Estado y Enfoque
 
-- 🔭 **Actualmente estoy trabajando en:** [Existia Learn](https://github.com/tu-usuario/existia-learn) y herramientas de automatización con IA.
+- 🔭 **Actualmente estoy trabajando en:** [Existia Learn](https://www.existialearn.com/info) y herramientas de automatización con IA.
 - 🌱 **Actualmente estoy aprendiendo:** Seguridad de red avanzada, integración de IoT con ESP32 y optimización de Server Components en Next.js.
 - 👯 **Busco colaborar en:** Proyectos Open Source Full-Stack que utilicen NestJS, Bun, React o ElysiaJS.
 - 💬 **Pregúntame sobre:** Angular, React, TypeScript, Minecraft Técnico, y Gustavo Cerati.
@@ -35,7 +35,7 @@ Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me
 
 ## 📂 Proyectos Destacados
 
-### [Existia Learn](https://existialearn.com)
+### [Existia Learn](https://www.existialearn.com/info)
 La primera plataforma educativa diseñada específicamente para el sistema escolar mexicano, enfocada en herramientas de productividad para maestros y alumnos.
 
 ### [StockFlow H&M](https://github.com/tu-usuario/stockflow)
