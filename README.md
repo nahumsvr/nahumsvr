@@ -35,13 +35,13 @@ Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me
 
 ## 📂 Proyectos Destacados
 
-### [Existia Learn](https://github.com/tu-usuario/existia-learn)
+### [Existia Learn](https://existialearn.com)
 La primera plataforma educativa diseñada específicamente para el sistema escolar mexicano, enfocada en herramientas de productividad para maestros y alumnos.
 
 ### [StockFlow H&M](https://github.com/tu-usuario/stockflow)
 Sistema web inteligente para la gestión de demanda e inventarios, desarrollado como una solución de alto rendimiento para logística de cadena de suministro.
 
-### OkDoc (MLH Hackathon 2026)
+### [OkDoc (MLH Hackathon 2026)](https://github.com/nahumsvr/okdoc)
 Aplicación enfocada en escritorio que procesa el audio de consultas médicas para pre-rellenar formularios clínicos automáticamente mediante IA.
 
 ---
