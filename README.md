@@ -1,8 +1,6 @@
-# Hola, soy Angel Salvador 👋
-
 ### Estudiante de Ingeniería de Software | Desarrollador Full-Stack
 
-Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me enfoco en construir aplicaciones escalables y de alto rendimiento, resolviendo retos arquitectónicos desde frontends reactivos hasta sistemas backend robustos.
+Me emociona crear y aprender, soy fan de la discogrfía de Cerati, toco el piano, me gusta el minimalismo y soy muy malo en los deportes.
 
 ---
 
@@ -10,8 +8,6 @@ Soy un estudiante de ingeniería de software con sede en Querétaro, México. Me
 
 - 🔭 **Actualmente estoy trabajando en:** [Existia Learn](https://www.existialearn.com/info) y herramientas de automatización con IA.
 - 🌱 **Actualmente estoy aprendiendo:** Seguridad de red avanzada, integración de IoT con ESP32 y optimización de Server Components en Next.js.
-- 👯 **Busco colaborar en:** Proyectos Open Source Full-Stack que utilicen NestJS, Bun, React o ElysiaJS.
-- 💬 **Pregúntame sobre:** Angular, React, TypeScript, Minecraft Técnico, y Gustavo Cerati.
 ---
 
 ## 🚀 Tech Stack
