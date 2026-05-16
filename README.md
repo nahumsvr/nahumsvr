@@ -4,12 +4,6 @@ Me emociona crear y aprender, soy fan de la discogrfía de Cerati, toco el piano
 
 ---
 
-## 🛠️ Estado y Enfoque
-
-- 🔭 **Actualmente estoy trabajando en:** [Existia Learn](https://www.existialearn.com/info) y herramientas de automatización con IA.
-- 🌱 **Actualmente estoy aprendiendo:** Seguridad de red avanzada, integración de IoT con ESP32 y optimización de Server Components en Next.js.
----
-
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -34,15 +28,8 @@ Me emociona crear y aprender, soy fan de la discogrfía de Cerati, toco el piano
 ### [Existia Learn](https://www.existialearn.com/info)
 La primera plataforma educativa diseñada específicamente para el sistema escolar mexicano, enfocada en herramientas de productividad para maestros y alumnos.
 
-### [StockFlow H&M](https://github.com/tu-usuario/stockflow)
+### [Instic](https://github.com/nahumsvr/instic)
 Sistema web inteligente para la gestión de demanda e inventarios, desarrollado como una solución de alto rendimiento para logística de cadena de suministro.
 
 ### [OkDoc (MLH Hackathon 2026)](https://github.com/nahumsvr/okdoc)
 Aplicación enfocada en escritorio que procesa el audio de consultas médicas para pre-rellenar formularios clínicos automáticamente mediante IA.
-
----
-
-## 📈 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nahumsvr&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumsvr&layout=compact&theme=tokyonight)
