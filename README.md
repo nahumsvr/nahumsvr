@@ -1,10 +1,10 @@
 ### Estudiante de Ingeniería de Software | Desarrollador Full-Stack
 
-Me emociona crear y aprender, soy fan de la discogrfía de Cerati, toco el piano, me gusta el minimalismo y soy muy malo en los deportes.
+Me emociona crear y aprender, soy fan de la discogrfía de Cerati, me gusta el minimalismo, soy muy malo en los deportes, actualmente estoy aprendiendo a mezclar (ser DJ).
 
 ---
 
-## 🚀 Tech Stack
+## Stack
 
 ### Frontend
 - **Frameworks:** Angular 20 (Signals, SSR), React, Next.js (App Router)
